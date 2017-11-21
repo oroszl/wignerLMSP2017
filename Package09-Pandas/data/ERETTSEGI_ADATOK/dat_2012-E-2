@@ -1,0 +1,55 @@
+intézmény megyéje;intézmény városa;vizsgázó évfolyama;vizsgázó képzési típusa;vizsgázó neme;vizsgázó képzési munkarendje;vizsgatárgy neve;vizsga szintje;vizsga fajtája;vizsgamentesség;vizsga nyelve;érdemjegy;össz százalék;össz pontszám;vizsgázó részvétele;"I. feleletválasztós kérdéssor";"II. esszé: tartalom";"II. esszé:  kifejtés módja";"III. összetett feladatok";"írásbeli pontszám";"mérés és tételkifejtés: tartalmi helyesség";"mérés és tételkifejtés: felépítés, kifejtés";"szóbeli pontszám"
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;emelt;elõrehozott;-;magyar;1;="36";="55";nem jelent meg;-;-;-;-;-;-;-;-
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;emelt;ismétlõ;-;magyar;5;="76";="115";megjelent;22;9;2;35;68;43;4;47
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;emelt;elõrehozott;-;magyar;5;="80";="121";megjelent;20;7;3;42;72;45;4;49
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;emelt;kiegészítõ;-;magyar;-;-;-;nem jelent meg;-;-;-;-;-;-;-;-
+Budapest;"Budapest";"13";gimnázium;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;5;="76";="114";megjelent;22;13;4;30;69;41;4;45
+Budapest;"Budapest";"";-;nõ;nincs tanulói jogviszonya;fizika;emelt;szintemelõ;-;magyar;4;="55";="83";megjelent;16;9;3;23;51;29;3;32
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;emelt;elõrehozott;-;magyar;1;="39";="59";nem jelent meg;-;-;-;-;-;-;-;-
+Budapest;"Budapest";"13";-;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;5;="70";="106";megjelent;22;10;3;42;77;27;2;29
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;emelt;elõrehozott;-;magyar;5;="83";="125";megjelent;26;18;5;46;95;27;3;30
+Budapest;"Budapest";"13";gimnázium;nõ;nappali;fizika;emelt;elõrehozott;-;magyar;1;="12";="18";nem jelent meg;-;-;-;-;-;-;-;-
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;emelt;kiegészítõ;-;magyar;4;="47";="71";megjelent;16;12;4;21;53;17;1;18
+Baranya;"Pécs";"";-;nõ;nincs tanulói jogviszonya;fizika;emelt;ismétlõ;-;magyar;1;="38";="57";nem jelent meg;-;-;-;-;-;-;-;-
+Baranya;"Pécs";"";-;férfi;nincs tanulói jogviszonya;fizika;emelt;ismétlõ;-;magyar;5;="62";="94";megjelent;14;13;4;25;56;33;5;38
+Bács-Kiskun;"Kecskemét";"11";gimnázium;férfi;nappali;fizika;emelt;elõrehozott;-;magyar;5;="90";="135";megjelent;26;17;5;41;89;41;5;46
+Bács-Kiskun;"Kecskemét";"12";gimnázium;férfi;nappali;fizika;emelt;elõrehozott;-;magyar;5;="70";="105";megjelent;16;10;3;29;58;42;5;47
+Bács-Kiskun;"Kecskemét";"";-;nõ;nincs tanulói jogviszonya;fizika;emelt;szintemelõ;-;magyar;-;-;-;nem jelent meg;-;-;-;-;-;-;-;-
+Békés;"Szarvas";"";-;férfi;nincs tanulói jogviszonya;fizika;emelt;szintemelõ;-;magyar;5;="80";="121";megjelent;14;18;5;38;75;42;4;46
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;nõ;nappali;fizika;emelt;szintemelõ;-;magyar;5;="77";="116";megjelent;20;16;4;34;74;38;4;42
+Borsod-Abaúj-Zemplén;"Miskolc";"F";gimnázium;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;5;="98";="148";megjelent;30;17;5;46;98;45;5;50
+Borsod-Abaúj-Zemplén;"Miskolc";"";-;nõ;nincs tanulói jogviszonya;fizika;emelt;szintemelõ;-;magyar;1;="26";="40";nem jelent meg;-;-;-;-;-;-;-;-
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;nõ;nappali;fizika;emelt;elõrehozott;-;magyar;5;="72";="109";megjelent;18;16;5;28;67;37;5;42
+Borsod-Abaúj-Zemplén;"Miskolc";"13";gimnázium;nõ;nappali;fizika;emelt;elõrehozott;-;magyar;5;="72";="108";megjelent;10;13;3;35;61;42;5;47
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;5;="97";="146";megjelent;30;17;5;46;98;43;5;48
+Borsod-Abaúj-Zemplén;"Mezõkövesd";"12";gimnázium;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;5;="86";="129";megjelent;22;13;4;46;85;40;4;44
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;5;="95";="143";megjelent;24;18;5;46;93;45;5;50
+Borsod-Abaúj-Zemplén;"Miskolc";"13";-;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;2;="32";="48";megjelent;14;3;1;7;25;20;3;23
+Csongrád;"Szeged";"";gimnázium;férfi;nincs tanulói jogviszonya;fizika;emelt;szintemelõ;-;magyar;1;="10";="15";megjelent;14;0;0;1;15;0;0;0
+Csongrád;"Szeged";"";gimnázium;férfi;nincs tanulói jogviszonya;fizika;emelt;pótló;-;magyar;5;="84";="126";megjelent;22;13;5;39;79;42;5;47
+Csongrád;"Szeged";".";szakközép;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;3;="40";="61";megjelent;12;6;4;12;34;24;3;27
+Fejér;"Székesfehérvár";"12";gimnázium;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;5;="83";="125";megjelent;20;16;4;35;75;45;5;50
+Fejér;"Székesfehérvár";"12";gimnázium;nõ;nappali;fizika;emelt;elõrehozott;-;magyar;1;="41";="62";nem jelent meg;-;-;-;-;-;-;-;-
+Fejér;"Székesfehérvár";"12";gimnázium;férfi;nappali;fizika;emelt;elõrehozott;-;magyar;1;="34";="52";nem jelent meg;-;-;-;-;-;-;-;-
+Fejér;"Székesfehérvár";"13";gimnázium;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;5;="64";="96";megjelent;22;11;3;18;54;39;3;42
+Fejér;"Székesfehérvár";"13";gimnázium;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;5;="89";="134";megjelent;26;12;3;44;85;44;5;49
+Fejér;"Székesfehérvár";"12";gimnázium;nõ;nappali;fizika;emelt;elõrehozott;-;magyar;4;="51";="77";megjelent;18;18;4;11;51;23;3;26
+Fejér;"Székesfehérvár";"13";gimnázium;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;1;="46";="70";nem jelent meg;-;-;-;-;-;-;-;-
+Gyõr-Moson-Sopron;"Gyõr";"";-;nõ;nincs tanulói jogviszonya;fizika;emelt;szintemelõ;-;magyar;3;="39";="59";megjelent;10;7;4;17;38;19;2;21
+Hajdú-Bihar;"Debrecen";"";szakközép;férfi;nincs tanulói jogviszonya;fizika;emelt;ismétlõ;-;magyar;1;="23";="35";nem jelent meg;-;-;-;-;-;-;-;-
+Hajdú-Bihar;"Debrecen";"12";gimnázium;nõ;nappali;fizika;emelt;elõrehozott;-;magyar;5;="98";="148";megjelent;30;18;5;47;100;43;5;48
+Hajdú-Bihar;"Debrecen";"12";gimnázium;nõ;nappali;fizika;emelt;elõrehozott;-;magyar;1;="24";="37";nem jelent meg;-;-;-;-;-;-;-;-
+Komárom-Esztergom;"Esztergom";"12";gimnázium;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;5;="93";="140";megjelent;26;17;5;45;93;42;5;47
+Komárom-Esztergom;"Tatabánya";"12";szakközép;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;5;="65";="98";megjelent;14;10;3;30;57;37;4;41
+Pest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;emelt;szintemelõ;-;magyar;5;="74";="111";megjelent;20;10;5;43;78;31;2;33
+Pest;"Szentendre";"";-;férfi;nincs tanulói jogviszonya;fizika;emelt;ismétlõ;-;magyar;5;="60";="90";megjelent;14;14;3;22;53;33;4;37
+Pest;"Szentendre";"";-;férfi;nincs tanulói jogviszonya;fizika;emelt;szintemelõ;-;magyar;5;="70";="106";megjelent;14;11;4;34;63;39;4;43
+Pest;"Budapest";"";gimnázium;férfi;nincs tanulói jogviszonya;fizika;emelt;szintemelõ;-;magyar;3;="43";="65";megjelent;16;5;1;8;30;32;3;35
+Somogy;"Kaposvár";"12";gimnázium;nõ;nappali;fizika;emelt;elõrehozott;-;magyar;5;="81";="122";megjelent;26;15;5;26;72;45;5;50
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"";gimnázium;férfi;nincs tanulói jogviszonya;fizika;emelt;szintemelõ;-;magyar;4;="49";="74";megjelent;16;6;1;7;30;40;4;44
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"13";gimnázium;férfi;nappali;fizika;emelt;elõrehozott;-;magyar;1;="46";="69";nem jelent meg;-;-;-;-;-;-;-;-
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"12";gimnázium;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;5;="88";="132";megjelent;22;16;4;40;82;45;5;50
+Jász-Nagykun-Szolnok;"Szolnok";"12";gimnázium;férfi;nappali;fizika;emelt;szintemelõ;-;magyar;5;="87";="131";megjelent;26;15;5;41;87;40;4;44
+Tolna;"Szekszárd";"";gimnázium;nõ;nincs tanulói jogviszonya;fizika;emelt;ismétlõ;-;magyar;3;="40";="61";megjelent;10;8;4;12;34;25;2;27
+Veszprém;"Veszprém";"";-;nõ;nincs tanulói jogviszonya;fizika;emelt;kiegészítõ;-;magyar;4;="51";="77";megjelent;18;6;2;24;50;25;2;27
+Veszprém;"Pápa";"";gimnázium;férfi;nincs tanulói jogviszonya;fizika;emelt;ismétlõ;-;magyar;5;="80";="120";megjelent;18;13;4;40;75;40;5;45

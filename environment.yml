@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+  - damianavila82
+dependencies:
+  - bqplot
+  - ipyvolume
+  - rise
+  - jupyter_contrib_nbextensions
+  - pandas
+

@@ -1,0 +1,359 @@
+intézmény megyéje;intézmény városa;vizsgázó évfolyama;vizsgázó képzési típusa;vizsgázó neme;vizsgázó képzési munkarendje;vizsgatárgy neve;vizsga szintje;vizsga fajtája;vizsgamentesség;vizsga nyelve;érdemjegy;össz százalék;össz pontszám;vizsgázó részvétele;"I. feleletválasztós kérdéssor";"II. összetett feladatok";"írásbeli pontszám";"egy téma kifejtése kísérlettel vagy méréssel: tartalom";"egy téma kifejtése kísérlettel vagy méréssel: felépítés, kifejtés";"szóbeli pontszám"
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="78";="117";megjelent;32;30;62;51;4;55
+Budapest;"Budapest";"13";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="121";megjelent;32;29;61;55;5;60
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="85";="128";megjelent;30;38;68;55;5;60
+Budapest;"Budapest";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="91";="137";megjelent;34;47;81;52;4;56
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="72";="108";megjelent;24;34;58;46;4;50
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="76";="115";megjelent;30;30;60;50;5;55
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="89";="134";megjelent;34;46;80;51;3;54
+Budapest;"Budapest";"";-;nõ;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;5;="91";="137";megjelent;32;46;78;54;5;59
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="81";="122";megjelent;30;46;76;41;5;46
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="88";="132";megjelent;32;40;72;55;5;60
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="138";megjelent;30;48;78;55;5;60
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="84";="126";megjelent;28;47;75;49;2;51
+Budapest;"Budapest";"11";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="97";="146";megjelent;36;50;86;55;5;60
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="76";="114";megjelent;30;24;54;55;5;60
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="74";="112";megjelent;28;24;52;55;5;60
+Budapest;"Budapest";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="88";="133";megjelent;26;47;73;55;5;60
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="121";megjelent;24;39;63;54;4;58
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="40";="61";nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;4;="68";="103";megjelent;28;35;63;37;3;40
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;36;48;84;55;5;60
+Budapest;"Budapest";"14";-;férfi;nappali;fizika;közép;ismétlõ;-;magyar;4;="78";="117";megjelent;26;31;57;55;5;60
+Budapest;"Budapest";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;német;5;="98";="147";megjelent;38;49;87;55;5;60
+Budapest;"Budapest";"13";-;nõ;nappali;fizika;közép;ismétlõ;-;magyar;5;="92";="139";megjelent;30;50;80;54;5;59
+Budapest;"Budapest";"";-;nõ;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;-;-;-;nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"14";-;férfi;nappali;fizika;közép;ismétlõ;-;magyar;4;="68";="103";megjelent;26;24;50;48;5;53
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="89";="134";megjelent;30;46;76;53;5;58
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="88";="132";megjelent;30;42;72;55;5;60
+Budapest;"Budapest";"14";-;férfi;nappali;fizika;közép;ismétlõ;-;magyar;4;="62";="94";megjelent;26;26;52;39;3;42
+Budapest;"Budapest";"";-;nõ;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="86";="129";megjelent;28;45;73;51;5;56
+Budapest;"Budapest";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="36";="55";nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"";gimnázium;nõ;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="90";="136";megjelent;32;44;76;55;5;60
+Budapest;"Budapest";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="84";="127";megjelent;36;31;67;55;5;60
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;-;-;-;nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="41";="62";nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="40";="61";nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"13";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="136";megjelent;32;44;76;55;5;60
+Budapest;"Budapest";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="145";megjelent;40;45;85;55;5;60
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="135";megjelent;32;43;75;55;5;60
+Budapest;"Budapest";"12";gimnázium;férfi;felnõttoktatás, esti/levelezõ;fizika;közép;elõrehozott;-;magyar;3;="52";="78";megjelent;32;11;43;32;3;35
+Budapest;"Budapest";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="26";="40";nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="135";megjelent;26;49;75;55;5;60
+Budapest;"Budapest";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;38;46;84;55;5;60
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="80";="120";megjelent;26;42;68;48;4;52
+Budapest;"Budapest";"";gimnázium;férfi;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;5;="96";="145";megjelent;36;49;85;55;5;60
+Budapest;"Budapest";"13";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="120";megjelent;28;38;66;49;5;54
+Budapest;"Budapest";"";-;nõ;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;-;-;-;nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="135";megjelent;30;45;75;55;5;60
+Budapest;"Budapest";"13";-;férfi;nappali;fizika;közép;ismétlõ;-;magyar;4;="74";="112";megjelent;24;28;52;55;5;60
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="65";="98";megjelent;30;45;75;21;2;23
+Budapest;"Budapest";"13";-;férfi;nappali;fizika;közép;kiegészítõ;-;magyar;-;-;-;nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="138";megjelent;32;48;80;53;5;58
+Budapest;"Budapest";"";-;nõ;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;5;="88";="132";megjelent;28;45;73;54;5;59
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="136";megjelent;32;44;76;55;5;60
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;javító;-;magyar;3;="40";="60";megjelent;24;0;24;33;3;36
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="61";="92";megjelent;28;25;53;36;3;39
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;közép;javító;-;magyar;5;="88";="132";megjelent;28;46;74;53;5;58
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="74";="112";megjelent;36;41;77;32;3;35
+Budapest;"Budapest";"14";-;férfi;nappali;fizika;közép;ismétlõ;-;magyar;-;-;-;nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="120";megjelent;36;50;86;30;4;34
+Budapest;"Budapest";"";gimnázium;nõ;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;5;="98";="147";megjelent;38;49;87;55;5;60
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="97";="146";megjelent;40;48;88;53;5;58
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="84";="126";megjelent;26;45;71;51;4;55
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="87";="131";megjelent;30;41;71;55;5;60
+Budapest;"Budapest";"";-;nõ;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;-;-;-;nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;36;48;84;55;5;60
+Budapest;"Budapest";"13";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="32";="48";nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;4;="75";="113";megjelent;20;33;53;55;5;60
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="136";megjelent;30;46;76;55;5;60
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="147";megjelent;38;50;88;55;4;59
+Budapest;"Budapest";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;36;48;84;55;5;60
+Budapest;"Budapest";"";-;nõ;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;1;="37";="56";nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;5;="82";="124";megjelent;22;42;64;55;5;60
+Budapest;"Budapest";"";-;nõ;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="97";="146";megjelent;38;50;88;53;5;58
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="93";="140";megjelent;36;46;82;53;5;58
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="91";="137";megjelent;34;43;77;55;5;60
+Budapest;"Budapest";"";-;nõ;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;3;="45";="68";megjelent;26;15;41;25;2;27
+Budapest;"Budapest";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="78";="118";megjelent;24;34;58;55;5;60
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="87";="131";megjelent;36;47;83;45;3;48
+Budapest;"Budapest";"13";-;férfi;nappali;fizika;közép;ismétlõ;-;magyar;5;="92";="139";megjelent;32;47;79;55;5;60
+Budapest;"Budapest";"";gimnázium;nõ;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="94";="142";megjelent;34;48;82;55;5;60
+Budapest;"Budapest";"13";gimnázium;nõ;nappali;fizika;közép;javító;-;magyar;5;="95";="143";megjelent;36;47;83;55;5;60
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;rendes;-;magyar;3;="56";="85";megjelent;28;14;42;40;3;43
+Budapest;"Budapest";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="148";megjelent;38;50;88;55;5;60
+Budapest;"Budapest";"13";gimnázium;nõ;nappali;fizika;közép;javító;-;magyar;5;="80";="121";megjelent;34;42;76;44;1;45
+Budapest;"Budapest";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;1;="31";="47";nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="36";="55";nem jelent meg;-;-;-;-;-;-
+Budapest;"Budapest";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="136";megjelent;32;44;76;55;5;60
+Budapest;"Budapest";"";-;nõ;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="86";="130";megjelent;28;43;71;54;5;59
+Budapest;"Budapest";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="42";="63";nem jelent meg;-;-;-;-;-;-
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="84";="126";megjelent;26;40;66;55;5;60
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="74";="111";megjelent;30;41;71;36;4;40
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="93";="140";megjelent;34;49;83;52;5;57
+Baranya;"Pécs";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="88";="132";megjelent;34;44;78;49;5;54
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="89";="134";megjelent;34;50;84;47;3;50
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="97";="146";megjelent;36;50;86;55;5;60
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="97";="146";megjelent;36;50;86;55;5;60
+Baranya;"Pécs";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="38";="57";nem jelent meg;-;-;-;-;-;-
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="82";="124";megjelent;36;46;82;39;3;42
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="76";="115";megjelent;30;35;65;47;3;50
+Baranya;"Pécs";"";gimnázium;férfi;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;-;-;-;nem jelent meg;-;-;-;-;-;-
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="121";megjelent;36;33;69;48;4;52
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="121";megjelent;32;35;67;49;5;54
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="121";megjelent;40;43;83;35;3;38
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="148";megjelent;38;50;88;55;5;60
+Baranya;"Pécs";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="142";megjelent;32;50;82;55;5;60
+Baranya;"Pécs";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="138";megjelent;38;40;78;55;5;60
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;36;48;84;55;5;60
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="141";megjelent;34;49;83;53;5;58
+Baranya;"Pécs";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="74";="111";megjelent;30;34;64;43;4;47
+Baranya;"Pécs";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="145";megjelent;36;49;85;55;5;60
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="89";="134";megjelent;38;49;87;44;3;47
+Baranya;"Pécs";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;horvát;5;="98";="148";megjelent;38;50;88;55;5;60
+Baranya;"Pécs";"";gimnázium;nõ;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;5;="96";="144";megjelent;36;50;86;53;5;58
+Bács-Kiskun;"Kecskemét";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="38";="57";nem jelent meg;-;-;-;-;-;-
+Bács-Kiskun;"Kecskemét";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="88";="133";megjelent;32;48;80;50;3;53
+Bács-Kiskun;"Kalocsa";"";gimnázium;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;1;="40";="60";nem jelent meg;-;-;-;-;-;-
+Bács-Kiskun;"Kecskemét";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="32";="48";megjelent;24;24;48;0;0;0
+Bács-Kiskun;"Kecskemét";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="86";="129";megjelent;36;39;75;50;4;54
+Bács-Kiskun;"Kecskemét";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="147";megjelent;40;50;90;53;4;57
+Bács-Kiskun;"Kecskemét";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="97";="146";megjelent;38;50;88;53;5;58
+Bács-Kiskun;"Kecskemét";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="62";="93";megjelent;32;30;62;29;2;31
+Békés;"Békéscsaba";"";gimnázium;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="80";="121";megjelent;34;41;75;43;3;46
+Békés;"Orosháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="148";megjelent;38;50;88;55;5;60
+Békés;"Orosháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="37";="56";nem jelent meg;-;-;-;-;-;-
+Békés;"Orosháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="138";megjelent;32;47;79;54;5;59
+Békés;"Orosháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;36;48;84;55;5;60
+Békés;"Gyula";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="43";="65";nem jelent meg;-;-;-;-;-;-
+Békés;"Békéscsaba";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="135";megjelent;36;48;84;46;5;51
+Békés;"Orosháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="82";="124";megjelent;34;32;66;53;5;58
+Békés;"Békéscsaba";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;34;50;84;55;5;60
+Békés;"Békéscsaba";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="138";megjelent;28;50;78;55;5;60
+Békés;"Gyula";"13";-;férfi;nappali;fizika;közép;ismétlõ;-;magyar;1;="34";="52";nem jelent meg;-;-;-;-;-;-
+Békés;"Békés";"13";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="81";="122";megjelent;38;26;64;53;5;58
+Békés;"Békéscsaba";"";szakközép;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;1;="46";="70";nem jelent meg;-;-;-;-;-;-
+Békés;"Orosháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="75";="113";megjelent;28;27;55;53;5;58
+Békés;"Orosháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="139";megjelent;38;43;81;53;5;58
+Békés;"Orosháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;34;50;84;55;5;60
+Békés;"Orosháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="136";megjelent;34;45;79;52;5;57
+Békés;"Orosháza";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="97";="146";megjelent;36;50;86;55;5;60
+Békés;"Orosháza";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="138";megjelent;28;50;78;55;5;60
+Békés;"Orosháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="74";="112";megjelent;24;36;60;48;4;52
+Békés;"Gyula";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="24";="37";nem jelent meg;-;-;-;-;-;-
+Békés;"Szarvas";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="81";="122";megjelent;30;36;66;51;5;56
+Békés;"Orosháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="88";="132";megjelent;30;42;72;55;5;60
+Békés;"Békéscsaba";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="83";="125";megjelent;34;31;65;55;5;60
+Békés;"Gyula";"13";-;férfi;nappali;fizika;közép;ismétlõ;-;magyar;4;="75";="113";megjelent;26;35;61;48;4;52
+Békés;"Orosháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="141";megjelent;34;49;83;53;5;58
+Békés;"Orosháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="82";="123";megjelent;30;42;72;48;3;51
+Borsod-Abaúj-Zemplén;"Miskolc";"13";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="35";="53";nem jelent meg;-;-;-;-;-;-
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="138";megjelent;30;48;78;55;5;60
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="120";megjelent;32;33;65;50;5;55
+Borsod-Abaúj-Zemplén;"Kazincbarcika";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="91";="137";megjelent;32;45;77;55;5;60
+Borsod-Abaúj-Zemplén;"Kazincbarcika";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="83";="125";megjelent;32;33;65;55;5;60
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;3;="58";="88";megjelent;26;28;54;32;2;34
+Borsod-Abaúj-Zemplén;"Miskolc";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="148";megjelent;40;50;90;53;5;58
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="142";megjelent;32;50;82;55;5;60
+Borsod-Abaúj-Zemplén;"Sátoraljaújhely";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="85";="128";megjelent;32;36;68;55;5;60
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;-;-;-;nem jelent meg;-;-;-;-;-;-
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="37";="56";nem jelent meg;-;-;-;-;-;-
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="148";megjelent;40;48;88;55;5;60
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;közép;javító;-;magyar;1;="32";="49";nem jelent meg;-;-;-;-;-;-
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="38";="58";nem jelent meg;-;-;-;-;-;-
+Borsod-Abaúj-Zemplén;"Miskolc";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;-;-;-;nem jelent meg;-;-;-;-;-;-
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="41";="62";nem jelent meg;-;-;-;-;-;-
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="121";megjelent;24;43;67;50;4;54
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="91";="137";megjelent;28;49;77;55;5;60
+Borsod-Abaúj-Zemplén;"Sátoraljaújhely";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="33";="50";nem jelent meg;-;-;-;-;-;-
+Borsod-Abaúj-Zemplén;"Sátoraljaújhely";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="88";="132";megjelent;32;40;72;55;5;60
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="41";="62";nem jelent meg;-;-;-;-;-;-
+Borsod-Abaúj-Zemplén;"Sátoraljaújhely";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;4;="76";="114";megjelent;24;33;57;53;4;57
+Borsod-Abaúj-Zemplén;"Kazincbarcika";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="82";="123";megjelent;32;31;63;55;5;60
+Borsod-Abaúj-Zemplén;"Miskolc";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;1;="41";="62";nem jelent meg;-;-;-;-;-;-
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="66";="100";megjelent;32;30;62;35;3;38
+Borsod-Abaúj-Zemplén;"Sátoraljaújhely";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;4;="70";="105";megjelent;28;23;51;50;4;54
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;4;="72";="109";megjelent;28;23;51;55;3;58
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;4;="74";="112";megjelent;26;30;56;52;4;56
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="89";="134";megjelent;34;45;79;50;5;55
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="135";megjelent;34;44;78;52;5;57
+Borsod-Abaúj-Zemplén;"Miskolc";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="83";="125";megjelent;34;34;68;52;5;57
+Csongrád;"Szeged";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="121";megjelent;32;32;64;52;5;57
+Csongrád;"Szeged";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="65";="98";megjelent;34;34;68;28;2;30
+Csongrád;"Szentes";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="86";="130";megjelent;30;50;80;46;4;50
+Csongrád;"Szeged";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="141";megjelent;40;43;83;53;5;58
+Csongrád;"Szeged";"13";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="120";megjelent;26;38;64;52;4;56
+Csongrád;"Szeged";"13";-;férfi;nappali;fizika;közép;rendes;-;magyar;3;="46";="69";megjelent;22;13;35;30;4;34
+Csongrád;"Szeged";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="85";="128";megjelent;34;47;81;44;3;47
+Csongrád;"Szeged";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="84";="126";megjelent;36;42;78;44;4;48
+Csongrád;"Szeged";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="120";megjelent;26;38;64;51;5;56
+Csongrád;"Szeged";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="145";megjelent;38;47;85;55;5;60
+Csongrád;"Szeged";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="142";megjelent;38;44;82;55;5;60
+Csongrád;"Szeged";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;-;-;-;nem jelent meg;-;-;-;-;-;-
+Csongrád;"Szeged";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="138";megjelent;30;48;78;55;5;60
+Csongrád;"Szeged";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="142";megjelent;34;50;84;53;5;58
+Csongrád;"Szeged";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="89";="134";megjelent;32;42;74;55;5;60
+Csongrád;"Szeged";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="97";="146";megjelent;38;48;86;55;5;60
+Csongrád;"Szeged";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="64";="97";megjelent;26;29;55;39;3;42
+Csongrád;"Szeged";"13";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="93";="140";megjelent;32;48;80;55;5;60
+Csongrád;"Szeged";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="136";megjelent;28;49;77;54;5;59
+Csongrád;"Szeged";"";gimnázium;nõ;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="84";="126";megjelent;36;30;66;55;5;60
+Csongrád;"Szeged";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="86";="130";megjelent;36;48;84;43;3;46
+Csongrád;"Szeged";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="91";="137";megjelent;34;46;80;52;5;57
+Csongrád;"Szeged";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;4;="76";="114";megjelent;30;40;70;41;3;44
+Csongrád;"Szeged";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="89";="134";megjelent;34;40;74;55;5;60
+Csongrád;"Szeged";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="138";megjelent;34;44;78;55;5;60
+Csongrád;"Szeged";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="88";="132";megjelent;30;42;72;55;5;60
+Fejér;"Székesfehérvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="147";megjelent;38;49;87;55;5;60
+Fejér;"Székesfehérvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;34;50;84;55;5;60
+Fejér;"Dunaújváros";"";-;nõ;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="86";="129";megjelent;36;44;80;44;5;49
+Fejér;"Székesfehérvár";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="45";="68";nem jelent meg;-;-;-;-;-;-
+Fejér;"Sárbogárd";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="28";="42";nem jelent meg;-;-;-;-;-;-
+Fejér;"Székesfehérvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="95";="143";megjelent;36;47;83;55;5;60
+Fejér;"Dunaújváros";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="145";megjelent;36;49;85;55;5;60
+Fejér;"Székesfehérvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="97";="146";megjelent;38;48;86;55;5;60
+Fejér;"Székesfehérvár";"13";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="120";megjelent;26;36;62;53;5;58
+Fejér;"Székesfehérvár";"";gimnázium;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="80";="121";megjelent;32;35;67;50;4;54
+Fejér;"Székesfehérvár";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="85";="128";megjelent;26;50;76;48;4;52
+Fejér;"Székesfehérvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="142";megjelent;32;50;82;55;5;60
+Fejér;"Dunaújváros";"12";szakközép;férfi;nappali;fizika;közép;rendes;-;magyar;2;="22";="33";megjelent;20;3;23;8;2;10
+Fejér;"Dunaújváros";"12";szakközép;férfi;nappali;fizika;közép;rendes;-;magyar;2;="35";="53";megjelent;22;13;35;16;2;18
+Fejér;"Székesfehérvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="91";="137";megjelent;36;47;83;49;5;54
+Fejér;"Dunaújváros";"12";szakközép;férfi;nappali;fizika;közép;rendes;-;magyar;3;="53";="80";megjelent;26;16;42;34;4;38
+Fejér;"Székesfehérvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="138";megjelent;30;49;79;54;5;59
+Fejér;"Székesfehérvár";"13";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;4;="64";="96";megjelent;28;24;52;40;4;44
+Fejér;"Székesfehérvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="139";megjelent;34;50;84;50;5;55
+Fejér;"Székesfehérvár";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="136";megjelent;28;48;76;55;5;60
+Fejér;"Székesfehérvár";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="145";megjelent;36;49;85;55;5;60
+Fejér;"Székesfehérvár";"12";gimnázium;férfi;nappali;fizika;közép;rendes;-;magyar;5;="91";="137";megjelent;28;50;78;54;5;59
+Gyõr-Moson-Sopron;"Gyõr";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="40";="60";nem jelent meg;-;-;-;-;-;-
+Gyõr-Moson-Sopron;"Gyõr";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="141";megjelent;34;50;84;52;5;57
+Gyõr-Moson-Sopron;"Gyõr";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;34;50;84;55;5;60
+Gyõr-Moson-Sopron;"Gyõr";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="95";="143";megjelent;36;50;86;52;5;57
+Gyõr-Moson-Sopron;"Gyõr";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="142";megjelent;32;50;82;55;5;60
+Gyõr-Moson-Sopron;"Gyõr";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="76";="115";megjelent;28;36;64;46;5;51
+Gyõr-Moson-Sopron;"Gyõr";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="138";megjelent;30;50;80;53;5;58
+Gyõr-Moson-Sopron;"Gyõr";"10";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="85";="128";megjelent;32;36;68;55;5;60
+Gyõr-Moson-Sopron;"Gyõr";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="88";="132";megjelent;38;50;88;40;4;44
+Gyõr-Moson-Sopron;"Gyõr";"13";-;férfi;nappali;fizika;közép;ismétlõ;-;magyar;5;="90";="136";megjelent;32;44;76;55;5;60
+Gyõr-Moson-Sopron;"Sopron";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;1;="21";="32";nem jelent meg;-;-;-;-;-;-
+Gyõr-Moson-Sopron;"Sopron";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="135";megjelent;28;49;77;53;5;58
+Gyõr-Moson-Sopron;"Gyõr";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="141";megjelent;32;49;81;55;5;60
+Hajdú-Bihar;"Debrecen";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="88";="132";megjelent;30;44;74;53;5;58
+Hajdú-Bihar;"Debrecen";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="88";="133";megjelent;32;41;73;55;5;60
+Hajdú-Bihar;"Debrecen";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="121";megjelent;28;40;68;49;4;53
+Hajdú-Bihar;"Debrecen";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="82";="123";megjelent;30;33;63;55;5;60
+Hajdú-Bihar;"Debrecen";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="90";="136";megjelent;32;44;76;55;5;60
+Hajdú-Bihar;"Debrecen";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="148";megjelent;38;50;88;55;5;60
+Hajdú-Bihar;"Debrecen";"";szakközép;férfi;nincs tanulói jogviszonya;fizika;közép;kiegészítõ;-;magyar;5;="81";="122";megjelent;28;34;62;55;5;60
+Hajdú-Bihar;"Debrecen";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="141";megjelent;34;47;81;55;5;60
+Hajdú-Bihar;"Debrecen";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="120";megjelent;30;34;64;52;4;56
+Hajdú-Bihar;"Debrecen";"12";szakközép;férfi;nappali;fizika;közép;javító;-;magyar;3;="40";="60";megjelent;22;8;30;27;3;30
+Hajdú-Bihar;"Debrecen";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="83";="125";megjelent;28;37;65;55;5;60
+Hajdú-Bihar;"Debrecen";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="120";megjelent;32;28;60;55;5;60
+Hajdú-Bihar;"Debrecen";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="86";="129";megjelent;26;43;69;55;5;60
+Hajdú-Bihar;"Debrecen";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="72";="108";megjelent;26;22;48;55;5;60
+Hajdú-Bihar;"Debrecen";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="80";="120";megjelent;26;34;60;55;5;60
+Hajdú-Bihar;"Debrecen";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;3;="56";="84";megjelent;32;8;40;41;3;44
+Hajdú-Bihar;"Debrecen";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="147";megjelent;40;47;87;55;5;60
+Hajdú-Bihar;"Debrecen";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="97";="146";megjelent;38;48;86;55;5;60
+Hajdú-Bihar;"Debrecen";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="95";="143";megjelent;36;48;84;54;5;59
+Hajdú-Bihar;"Debrecen";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;4;="63";="95";megjelent;24;34;58;34;3;37
+Heves;"Gyöngyös";"";szakközép;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;2;="32";="48";megjelent;22;3;25;20;3;23
+Heves;"Eger";"Gá";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="70";="105";megjelent;30;31;61;40;4;44
+Komárom-Esztergom;"Komárom";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="97";="146";megjelent;36;50;86;55;5;60
+Komárom-Esztergom;"Tatabánya";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="91";="137";megjelent;32;46;78;54;5;59
+Komárom-Esztergom;"Komárom";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="89";="134";megjelent;36;38;74;55;5;60
+Komárom-Esztergom;"Komárom";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="142";megjelent;32;50;82;55;5;60
+Komárom-Esztergom;"Tatabánya";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="95";="143";megjelent;36;50;86;53;4;57
+Komárom-Esztergom;"Esztergom";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;3;="57";="86";megjelent;28;18;46;36;4;40
+Komárom-Esztergom;"Tatabánya";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;3;="55";="83";megjelent;22;22;44;36;3;39
+Komárom-Esztergom;"Komárom";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="136";megjelent;26;50;76;55;5;60
+Komárom-Esztergom;"Komárom";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="85";="128";megjelent;26;42;68;55;5;60
+Nógrád;"Salgótarján";"13";gimnázium;férfi;nappali;fizika;közép;javító;-;magyar;5;="88";="132";megjelent;34;45;79;48;5;53
+Nógrád;"Salgótarján";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="82";="123";megjelent;32;33;65;53;5;58
+Nógrád;"Salgótarján";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="120";megjelent;34;36;70;45;5;50
+Nógrád;"Salgótarján";"13";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="120";megjelent;28;32;60;55;5;60
+Pest;"Vác";"13";-;férfi;felnõttoktatás, nappali;fizika;közép;ismétlõ;-;magyar;5;="89";="134";megjelent;28;48;76;55;3;58
+Pest;"Nagykõrös";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="65";="98";megjelent;28;21;49;45;4;49
+Pest;"Budaörs";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="41";="62";nem jelent meg;-;-;-;-;-;-
+Pest;"Vác";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="43";="65";megjelent;32;33;65;0;0;0
+Pest;"Szentendre";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="73";="110";megjelent;32;35;67;41;2;43
+Pest;"Szentendre";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;3;="59";="89";megjelent;28;21;49;37;3;40
+Pest;"Vác";"Kü";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="95";="143";megjelent;34;49;83;55;5;60
+Pest;"Gödöllõ";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="88";="132";megjelent;32;42;74;53;5;58
+Pest;"Szentendre";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;1;="33";="50";nem jelent meg;-;-;-;-;-;-
+Pest;"Vác";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="87";="131";megjelent;32;41;73;53;5;58
+Pest;"Vác";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="121";megjelent;28;35;63;53;5;58
+Pest;"Vác";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="35";="53";nem jelent meg;-;-;-;-;-;-
+Pest;"Vác";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;36;48;84;55;5;60
+Somogy;"Kaposvár";"";gimnázium;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;1;="40";="61";nem jelent meg;-;-;-;-;-;-
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="84";="127";megjelent;28;46;74;48;5;53
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="145";megjelent;38;47;85;55;5;60
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="92";="139";megjelent;30;50;80;54;5;59
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="147";megjelent;38;49;87;55;5;60
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="136";megjelent;32;44;76;55;5;60
+Somogy;"Kaposvár";"";szakközép;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="89";="134";megjelent;38;38;76;53;5;58
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;34;50;84;55;5;60
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;4;="76";="115";megjelent;30;28;58;52;5;57
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="82";="124";megjelent;32;36;68;51;5;56
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="45";="68";nem jelent meg;-;-;-;-;-;-
+Somogy;"Kaposvár";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;3;="59";="89";megjelent;26;22;48;36;5;41
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="86";="129";megjelent;30;41;71;53;5;58
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="148";megjelent;38;50;88;55;5;60
+Somogy;"Kaposvár";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="83";="125";megjelent;32;38;70;50;5;55
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="46";="69";nem jelent meg;-;-;-;-;-;-
+Somogy;"Kaposvár";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="141";megjelent;36;47;83;53;5;58
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="95";="143";megjelent;36;47;83;55;5;60
+Somogy;"Kaposvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="91";="137";megjelent;28;49;77;55;5;60
+Somogy;"Kaposvár";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="85";="128";megjelent;30;38;68;55;5;60
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"/";-;nõ;nappali;fizika;közép;kiegészítõ;-;magyar;4;="68";="102";megjelent;36;32;68;30;4;34
+Szabolcs-Szatmár-Bereg;"Vásárosnamény";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;rendes;-;magyar;2;="30";="45";megjelent;24;1;25;17;3;20
+Szabolcs-Szatmár-Bereg;"Vásárosnamény";"";-;nõ;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;4;="75";="113";megjelent;26;27;53;55;5;60
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"12";szakközép;nõ;nappali;fizika;közép;javító;-;magyar;1;="20";="30";nem jelent meg;-;-;-;-;-;-
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="44";="67";nem jelent meg;-;-;-;-;-;-
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;34;50;84;55;5;60
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"12";gimnázium;férfi;nappali;fizika;közép;javító;-;magyar;5;="83";="125";megjelent;26;39;65;55;5;60
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"12";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="36";="55";nem jelent meg;-;-;-;-;-;-
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"";gimnázium;nõ;nincs tanulói jogviszonya;fizika;közép;javító;-;magyar;1;="9";="14";nem jelent meg;-;-;-;-;-;-
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"12";gimnázium;nõ;nappali;fizika;közép;javító;-;magyar;3;="59";="89";megjelent;16;13;29;55;5;60
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"12";gimnázium;férfi;nappali;fizika;közép;javító;-;magyar;1;="32";="48";nem jelent meg;-;-;-;-;-;-
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="51";="77";nem jelent meg;-;-;-;-;-;-
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="34";="52";nem jelent meg;-;-;-;-;-;-
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"14";-;férfi;nappali;fizika;közép;ismétlõ;-;magyar;5;="82";="123";megjelent;32;31;63;55;5;60
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="90";="136";megjelent;32;44;76;55;5;60
+Szabolcs-Szatmár-Bereg;"Vásárosnamény";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;rendes;-;magyar;2;="36";="54";megjelent;30;4;34;17;3;20
+Szabolcs-Szatmár-Bereg;"Vásárosnamény";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;rendes;-;magyar;3;="53";="80";megjelent;24;16;40;36;4;40
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"12";szakközép;nõ;nappali;fizika;közép;javító;-;magyar;1;="18";="28";nem jelent meg;-;-;-;-;-;-
+Szabolcs-Szatmár-Bereg;"Nyíregyháza";"12";gimnázium;férfi;nappali;fizika;közép;javító;-;magyar;4;="70";="105";megjelent;18;27;45;55;5;60
+Jász-Nagykun-Szolnok;"Szolnok";"";szakközép;nõ;nincs tanulói jogviszonya;fizika;közép;javító;-;magyar;2;="36";="55";megjelent;12;15;27;25;3;28
+Jász-Nagykun-Szolnok;"Szolnok";"";szakközép;nõ;nincs tanulói jogviszonya;fizika;közép;rendes;-;magyar;2;="20";="30";megjelent;16;3;19;20;2;11
+Jász-Nagykun-Szolnok;"Szolnok";".";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;4;="77";="116";megjelent;22;34;56;55;5;60
+Tolna;"Szekszárd";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="93";="140";megjelent;32;49;81;54;5;59
+Tolna;"Szekszárd";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;4;="68";="103";megjelent;28;27;55;45;3;48
+Tolna;"Szekszárd";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="86";="130";megjelent;32;38;70;55;5;60
+Tolna;"Szekszárd";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="88";="133";megjelent;30;47;77;51;5;56
+Tolna;"Szekszárd";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;4;="70";="106";megjelent;30;23;53;49;4;53
+Tolna;"Szekszárd";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;3;="56";="84";megjelent;24;20;44;38;2;40
+Tolna;"Szekszárd";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="85";="128";megjelent;24;44;68;55;5;60
+Tolna;"Szekszárd";"12";gimnázium;nõ;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="120";megjelent;28;35;63;52;5;57
+Tolna;"Szekszárd";"1N";-;nõ;nappali;fizika;közép;kiegészítõ;-;magyar;5;="80";="120";megjelent;32;36;68;49;3;52
+Tolna;"Dombóvár";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;3;="48";="72";megjelent;14;26;40;30;2;32
+Tolna;"Szekszárd";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="80";="121";megjelent;36;30;66;50;5;55
+Tolna;"Szekszárd";"";gimnázium;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;4;="74";="111";megjelent;32;29;61;47;3;50
+Vas;"Szombathely";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;angol;5;="98";="148";megjelent;38;50;88;55;5;60
+Vas;"Szombathely";"";gimnázium;nõ;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="89";="134";megjelent;30;47;77;52;5;57
+Veszprém;"Veszprém";"";gimnázium;nõ;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;4;="69";="104";megjelent;30;31;61;39;4;43
+Veszprém;"Balatonalmádi";"13";gimnázium;férfi;nappali;fizika;közép;javító;-;magyar;5;="84";="127";megjelent;24;44;68;54;5;59
+Veszprém;"Veszprém";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="86";="130";megjelent;32;45;77;49;4;53
+Veszprém;"Veszprém";"12";-;férfi;nappali;fizika;közép;kiegészítõ;-;magyar;5;="86";="130";megjelent;28;43;71;54;5;59
+Veszprém;"Balatonalmádi";"";-;férfi;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="97";="146";megjelent;38;50;88;53;5;58
+Veszprém;"Pápa";"13";szakközép;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="82";="123";megjelent;26;39;65;53;5;58
+Zala;"Zalaegerszeg";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="148";megjelent;38;50;88;55;5;60
+Zala;"Zalaegerszeg";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="88";="133";megjelent;30;43;73;55;5;60
+Zala;"Nagykanizsa";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;36;48;84;55;5;60
+Zala;"Zalaegerszeg";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="96";="144";megjelent;34;50;84;55;5;60
+Zala;"Zalaegerszeg";"12";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="94";="141";megjelent;34;47;81;55;5;60
+Zala;"Nagykanizsa";"";gimnázium;nõ;nincs tanulói jogviszonya;fizika;közép;ismétlõ;-;magyar;5;="80";="120";megjelent;30;40;70;47;3;50
+Zala;"Zalaegerszeg";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;5;="98";="148";megjelent;38;50;88;55;5;60
+Zala;"Zalaegerszeg";"13";gimnázium;férfi;nappali;fizika;közép;elõrehozott;-;magyar;1;="35";="53";nem jelent meg;-;-;-;-;-;-

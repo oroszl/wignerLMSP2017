@@ -1,0 +1,44 @@
+import os
+import pandas as pd
+
+dfs=[]
+for f in os.listdir("ERETTSEGI_ADATOK/"):
+    if f[0]=="d":
+        d=f.split("_")[1].split("-")
+        ev=int(d[0])
+        szint=d[1]
+        idoszak=int(d[2])
+        idoszak_dict={1:"ősz",2:"tavasz"}
+        
+        df=pd.read_csv("ERETTSEGI_ADATOK/"+f,sep=";",encoding="ISO-8859-1")
+        df["év"]=ev
+        df["szint"]=szint
+        df["időszak"]=idoszak_dict[idoszak]
+        
+        dfs.append(df)
+all_df=pd.concat(dfs,ignore_index=True)
+all_df=all_df[df.columns.tolist()+list(set(all_df.columns.tolist()).difference(set(df.columns.tolist())))]
+
+def pont_konverzio(s):
+    s=s.strip('"=')
+    if s=="-":
+        s=None
+    else:
+        s=float(s)
+    return s
+
+all_df["össz százalék"]=all_df["össz százalék"].apply(pont_konverzio)
+all_df["össz pontszám"]=all_df["össz pontszám"].apply(pont_konverzio)
+
+numeric_columns=["vizsgázó évfolyama","érdemjegy","I. feleletválasztós kérdéssor",
+"II. esszé: tartalom","II. esszé:  kifejtés módja","III. összetett feladatok",
+"írásbeli pontszám",
+"mérés és tételkifejtés: tartalmi helyesség",
+"mérés és tételkifejtés: felépítés, kifejtés",
+"szóbeli pontszám",
+"év",
+"egy téma kifejtése kísérlettel vagy méréssel: tartalom",
+"egy téma kifejtése kísérlettel vagy méréssel: felépítés, kifejtés",
+"II. összetett feladatok"]
+all_df[numeric_columns] = all_df[numeric_columns].apply(pd.to_numeric)
+all_df.to_csv("erettsegi.csv.gz",sep=";",encoding="utf8",compression="gzip")
